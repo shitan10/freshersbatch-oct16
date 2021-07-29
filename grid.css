@@ -25,7 +25,7 @@ grid-column: 4/5;
 .div6{background: palevioletred; 
 grid-column: 1/4;
 }
-.div7{background: rgb(30, 209, 99);
+.div7{background: rgb(90, 209, 99);
     grid-column: 1/-1;
 }
 
