@@ -9,6 +9,6 @@ $(function(){
         return;
       }
       $('#len'+(i++)).toggleClass('bounce');
-    }, 500)
+    }, 50)
   });
 });
