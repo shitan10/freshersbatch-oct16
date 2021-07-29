@@ -1,4 +1,4 @@
-This is section1 -HTML Assignments
+Ths is section1 -HTML Assignments
 this is css assignments
 <<<<<<< HEAD
 this is java script assignments
